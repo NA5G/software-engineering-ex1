@@ -2,7 +2,8 @@ def add(a, b):
     return a+b
 
 def sub(a, b):
-    pass
+    result = a-b
+    return result
 
 def multi(a, b):
     return a*b
