@@ -8,7 +8,7 @@ def multi(a, b):
     pass
 
 def div(a, b):
-    pass
+    return a/b
 
 def mod(a, b):
     pass
