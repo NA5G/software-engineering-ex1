@@ -11,7 +11,7 @@ def div(a, b):
     pass
 
 def mod(a, b):
-    pass
+    return a%b;
 
 if __name__ == '__main__':
     pass
